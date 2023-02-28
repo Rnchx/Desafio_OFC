@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(233, 183, 175);
+    background-color: moccasin;
+    margin: 0%;
 }
 h1{
     text-align: center;
@@ -25,6 +26,7 @@ form{
     color: rgb(216, 169, 169);
     padding-top: ;
     font-family: serif;
+    margin-bottom: 15px;
 }
 #submit:hover{
     background-color: rgb(244, 140, 102);
@@ -33,9 +35,15 @@ form{
 }
 .divform{
     padding: 20px;
-    font-family: serif;
+    font-family: serif;"
 }
 input{
     padding: 5px;
     font-family: serif;
+}
+iframe {
+    width: 100%;
+}
+footer {
+    background-color: black;
 }
