@@ -23,6 +23,7 @@ a{
     color: white;
     justify-content: space-between;
     padding-left: 15px;
+    list-style-type: none;
 }
 a:hover{
     background-color: lightsalmon;
