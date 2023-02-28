@@ -1,5 +1,7 @@
 body{
     margin: 0px;
+    font-family: sans-serif;
+    background-color: moccasin;
 }
 #title{
     margin-top: 0px
@@ -21,6 +23,7 @@ body{
     -webkit-box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
     -moz-box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
     box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
+    background-color: white;
 
 }
 .title2{
@@ -42,6 +45,7 @@ body{
     -webkit-box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
     -moz-box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
     box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
+    background-color: white;
 }
 .div_team{
     display: flex;
