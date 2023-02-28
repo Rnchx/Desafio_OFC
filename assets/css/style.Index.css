@@ -1,0 +1,93 @@
+body {
+    margin: 0%;
+    background-color:moccasin;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family:sans-serif;
+}
+#h1_1 {
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+#p_1 {
+    text-align: center;
+    font-size: 30px;
+}
+#article_1 {
+    border-left: solid 5px;
+    border-color: lightsalmon;
+    border-radius: 10px;
+    background-color: oldlace;
+    padding: 50px;
+    margin-bottom: 30px;
+    -webkit-box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
+    -moz-box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
+    box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
+    width: 90%;
+    margin-left: 10px;
+}
+#section_1 {
+    display: flex;
+}
+.sections {
+    border-left: solid 5px;
+    border-color: lightsalmon;
+    background-color: oldlace;
+    border-radius: 10px;
+    -webkit-box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
+    -moz-box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
+    box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
+    width: 90%;
+    margin-left: 10px;
+    margin-right: 15px;
+}
+.images {
+    text-align: center;
+}
+.sections_2 {
+    border-left: solid 5px;
+    border-color: lightsalmon;
+    background-color: oldlace;
+    border-radius: 10px;
+    -webkit-box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
+    -moz-box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
+    box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
+    width: 90%;
+    margin-left: 10px;
+    margin-right: 15px;
+}
+.articles {
+    display: flex;
+    margin-bottom: 25px;
+}
+h3 {
+    margin-left: 150px;
+}
+p {
+    margin-left: 15px;
+}
+#title_site {
+    font-size: 30px;
+    margin-bottom: 15px;
+    
+}  
+#menu {
+    background-color: oldlace;
+    border-top: solid 5px lightsalmon;
+    padding: 0;
+    margin-bottom: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    text-align: center;
+    width: 20%;
+    border-radius: 10px;
+    -webkit-box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
+    -moz-box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
+    box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
+    padding-bottom: 5px;
+}
+footer{
+    background-color: black;
+}
+
