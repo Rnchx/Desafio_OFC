@@ -1,0 +1,49 @@
+img{
+    text-align: center;
+    margin: 100px;
+    margin-bottom: 20px ;
+
+}
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    font-size: medium;
+}
+#imagem{
+    margin-bottom: 40px;
+    margin-top: 80px;
+}
+#botao{
+    background-color: red;
+    color: white;
+    height: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 30px;
+}
+
+#botao:hover{
+    background-color: rgb(225, 51, 51);
+    text-decoration: white;
+}
+
+#espaco{
+    margin-top: 50px;
+}
+body{
+    margin: 0%;
+    background-color: moccasin;
+    padding: 0%;
+    align-items: center;
+}
+#iframeFooter{
+    bottom: 0%;
+    position: fixed;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+#blabla{
+    text-align: center;
+}
