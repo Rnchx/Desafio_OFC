@@ -1,12 +1,12 @@
 body{
-    background-image: url(https://i.pinimg.com/564x/32/9e/96/329e960ac1d23806a9786e580a984892.jpg);
+    background-image: url(https://i.pinimg.com/736x/99/95/d3/9995d323f18760ded6772465378b6525.jpg);
     margin: 0%;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #h1{
     text-align: center;
-    border-left: solid 8px;
+    border-top: solid 3px;
     border-color: red;
     background-color: black;
     color: whitesmoke;
@@ -18,6 +18,8 @@ body{
     border-radius: 10px;
     margin-bottom: 50px;
     font-family: verdana;
+    margin-top: 20px;
+    padding-bottom: 5px ;
 }
 form{
     display: flex;
