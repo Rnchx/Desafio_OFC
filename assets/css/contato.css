@@ -24,7 +24,7 @@ form{
     margin-top: 30px;
     background-color: rgb(255, 82, 38);
     color: rgb(216, 169, 169);
-    padding-top: ;
+    padding-top: 10;
     font-family: serif;
     margin-bottom: 15px;
 }
@@ -35,7 +35,7 @@ form{
 }
 .divform{
     padding: 20px;
-    font-family: serif;"
+    font-family: serif;
 }
 input{
     padding: 5px;
