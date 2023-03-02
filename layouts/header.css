@@ -1,12 +1,14 @@
-body{
+body {
     margin: 0%;
 }
-header{
+
+header {
     background-color: black;
-    font-size:15px;
+    font-size: 15px;
     font-family: serif;
 }
-.anav{
+
+.anav {
     display: flex;
     text-align: center;
     padding-top: 30px;
@@ -14,21 +16,25 @@ header{
     padding-left: 800px;
     justify-content: center;
 }
-#divlogo{
+
+#divlogo {
     text-align: left;
     padding-left: 10px;
 }
-a{
+
+a {
     text-decoration: none;
     color: white;
     justify-content: space-between;
     padding-left: 15px;
     list-style-type: none;
 }
-a:hover{
+
+a:hover {
     background-color: lightsalmon;
     border-radius: 5px;
 }
-header{
+
+header {
     display: flex;
 }
