@@ -19,6 +19,7 @@ h1{
     height: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-bottom: 30px;
+    margin-bottom: 30px;
 }
 
 #botao:hover{
@@ -31,13 +32,14 @@ h1{
 }
 body{
     margin: 0%;
-    background-color: moccasin;
     padding: 0%;
     align-items: center;
+    background-image: url(https://i.pinimg.com/564x/99/95/d3/9995d323f18760ded6772465378b6525.jpg);
 }
 #iframeFooter{
     bottom: 0%;
     position: fixed;
+    margin-top: 15px;
 }
 
 *{
@@ -46,4 +48,5 @@ body{
 }
 #blabla{
     text-align: center;
+    
 }
