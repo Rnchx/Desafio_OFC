@@ -25,6 +25,7 @@ nav ul{
     padding: 0;
     display: flex;
     justify-content: center;
+    margin-left: 28px;
 }
 nav li{
     margin: 0 10px;
@@ -35,3 +36,9 @@ nav a{
     text-transform: uppercase;
     padding: 10px;
 }
+ nav li:hover{
+    background-color: red;
+    border-radius: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+ }
