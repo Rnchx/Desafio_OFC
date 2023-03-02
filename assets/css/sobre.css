@@ -1,7 +1,7 @@
 body{
     margin: 0px;
     font-family: sans-serif;
-    background-color: moccasin;
+    background-color: rgba(0,0,0,0.9);
 }
 #title{
     margin-top: 0px
@@ -14,16 +14,16 @@ body{
     width: 90%;
     margin: auto;
     margin-top: 20px;
-    border-left: 5px solid lightsalmon;
+    border-left: 5px solid red;
     border-radius: 10px;
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 5px;
     text-align: justify;
-    -webkit-box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
-    -moz-box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
-    box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
-    background-color: white;
+    -webkit-box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.9)git;
+    -moz-box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.9);
+    box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.9);
+    background-color: black;
 
 }
 .title2{
@@ -36,15 +36,15 @@ body{
     width: 90%;
     margin: auto;
     margin-top: 70px;
-    border-top: 5px solid lightsalmon;
+    border-top: 5px solid red;
     border-radius: 10px;
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 5px;
     text-align: justify;
-    -webkit-box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
-    -moz-box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
-    box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
+    -webkit-box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.9);
+    -moz-box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.9);
+    box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.9);
     background-color: white;
     margin-bottom: 20px;
 }
@@ -54,15 +54,15 @@ body{
 }
 .sect_team{
     margin: auto;
-    border-top: 5px solid lightsalmon;
+    border-top: 5px solid red;
     border-radius: 10px;
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 5px;
     text-align: justify;
-    -webkit-box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
-    -moz-box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
-    box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.6);
+    -webkit-box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.9);
+    -moz-box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.9);
+    box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.9);
     width: 33%;
     margin-right: 15px;
 }
