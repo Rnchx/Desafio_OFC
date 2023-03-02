@@ -1,31 +1,21 @@
 body {
     margin: 0%;
+    background-color: rgba(0,0,0,0.9);
     background-image: url(https://i.pinimg.com/564x/99/95/d3/9995d323f18760ded6772465378b6525.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-repeat:repeat-x repeat-y;
     font-family: Verdana;
 }
 #h1_1 {
     text-align: center;
-    margin-bottom: 0px;
-    margin-top: 0px;
-    border: solid 3px;
-    border-color: red;
-    border-radius: 10px;
-    background-color: black;
-    color: whitesmoke;
-    margin-right: 500px;
-    margin-left: 500px;
-    margin-top: 10px;
+    color: black;
     margin-bottom: 10px;
-
+    margin-top: 20px;
 }
 #promosikiei {
     border: solid 1.5px red;
-    margin-right: 780px;
+    margin-right: 750px;
     border-radius: 10px;
     padding: 3px;
-    text-align: center;
 }
 #promosikiei_2 {
     color: whitesmoke;
@@ -36,15 +26,8 @@ body {
 #p_1 {
     text-align: center;
     font-size: 15px;
-    background-color: black;
-    color: whitesmoke;
-    border-bottom: solid 1.5px red;
-    border-top: solid 1.5px red;
+    color: black;
     text-transform: uppercase;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 5px;
-    margin-bottom: 5px;
 }
 #article_1 {
     border-left: solid 5px;
@@ -105,11 +88,6 @@ h3 {
 p {
     margin-left: 15px;
 }
-#title_site {
-    font-size: 30px;
-    margin-bottom: 15px;
-    
-}  
 footer{
     background-color: black;
 }
