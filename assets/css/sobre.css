@@ -64,9 +64,9 @@ body{
     padding-right: 20px;
     padding-bottom: 5px;
     text-align: justify;
-    -webkit-box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.9);
-    -moz-box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.9);
-    box-shadow: 16px 14px 31px 1px rgba(0,0,0,0.9);
+    -webkit-box-shadow: 16px 14px 31px 1px rgba(255, 255, 255, 0.2);
+    -moz-box-shadow: 16px 14px 31px 1px rgba(255, 255, 255, 0.2);
+    box-shadow: 16px 14px 31px 1px rgba(255, 255, 255, 0.2);
     width: 33%;
     margin-right: 15px;
 }
